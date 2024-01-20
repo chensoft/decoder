@@ -1,0 +1,13 @@
+[package]
+name = "decoder"
+version = "0.0.0"
+edition = "2021"
+authors = ["Jian Chen <admin@chensoft.com>"]
+license = "MIT"
+description = "Blazing fast decoder written in Rust"
+documentation = "https://docs.rs/decoder"
+repository = "https://github.com/chensoft/decoder"
+readme = "README.md"
+keywords = ["decoder", "decode", "decoding", "number", "json"]
+
+[dependencies]
